@@ -1,18 +1,64 @@
+
 .header-banner{
     background-image: url('../assets/image/Banner\ Image.png');
     background-size: contain;
     background-repeat: no-repeat;
-    margin-left: 100px;
-    height: 600px;
+    height: 500px; 
     width: 1300px;
     background-color: black;
     border-radius: 20px;
+    margin-left: 100px;
 }
 .header-details{
     color: #FFD700;
     text-align: center;
-    font-weight: 900;
+    font-weight: 400;
     padding-top: 200px;
-    font-size: 40px;
+    font-size: 30px;
 }
-
+.discount-section{
+    text-align: center;
+}
+.discount-title{
+    color:#FF0000;
+    font-weight: bolder;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.discount-deals{
+    color:#FF0000;
+}
+.discount-img{
+    /* height: 300px; */
+}
+.welcome-banner{
+    background-image: url('../assets/image/Vectorrr.png');
+    height: 500px; 
+    width: 1300px;
+    margin-left: 100px;
+    border-radius: 20px;
+}
+/* .welcome-banner-description{
+    color: white;
+    padding: 30px 400px 10px 100px;
+} */
+.welcome-banner-title{
+    font-size: 50px;
+    color: white;
+    padding: 170px 770px 0px 100px;
+}
+.welcome-banner-about{
+    color: white;
+    padding: 0px 400px 0px 100px;
+}
+.primary-btn{
+    height: 70px;
+    width: 150px;
+    margin-left: 100px;
+    border: none;
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: Arial;
+    background-color: transparent;
+    color: white;
+}
