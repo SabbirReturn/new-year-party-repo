@@ -1,0 +1,18 @@
+.header-banner{
+    background-image: url('../assets/image/Banner\ Image.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 100px;
+    height: 600px;
+    width: 1300px;
+    background-color: black;
+    border-radius: 20px;
+}
+.header-details{
+    color: #FFD700;
+    text-align: center;
+    font-weight: 900;
+    padding-top: 200px;
+    font-size: 40px;
+}
+
